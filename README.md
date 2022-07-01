@@ -1,8 +1,6 @@
 ### 🐶🐱Cats vs. Dogs Classification Project
 ---
 
-![alt text](/demo/miscellaneous/Cats-Dogs-Classification-deep-learning.gif)
-
 ### 📄Description
 ---
 * In this project, we are going to classify cats and dogs using deep learning models.
@@ -13,11 +11,12 @@
 In this section you can see the outputs of both models:
 #### CNN's Output
 **Using Random Data from The Dataset **
-
+---
+![alt text](https://github.com/iamsj2022/Dog-CatsClassification/blob/main/Default.png)
 
 **Using Random Image From the Internet
-
-
+---
+![alt text](https://github.com/iamsj2022/Dog-CatsClassification/blob/main/Random_checkfrom_Internet.png)
 
 ### 📈📉📊Model Performance
 ---
