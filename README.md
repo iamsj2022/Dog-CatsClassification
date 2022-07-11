@@ -1,6 +1,6 @@
 ### 🐶🐱Cats vs. Dogs Classification Project
 
-[Atomic:]
+**[Deployed Over AWS:]**
 (http://catanddogclassifier-env.eba-tzfppa6p.us-east-1.elasticbeanstalk.com)
 
 ---
