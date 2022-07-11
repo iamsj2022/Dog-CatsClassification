@@ -1,6 +1,6 @@
 ### 🐶🐱Cats vs. Dogs Classification Project
 
-$$ ![alt text] (http://catanddogclassifier-env.eba-tzfppa6p.us-east-1.elasticbeanstalk.com/) $$
+$$![alt text](http://catanddogclassifier-env.eba-tzfppa6p.us-east-1.elasticbeanstalk.com/)$$
 
 ---
 
